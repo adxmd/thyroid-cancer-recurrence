@@ -1,7 +1,6 @@
 # Binary Classification to Predict Reccurence of Thyroid Cancer
 
-### Author: Adam David 
-[Website](https://www.adamdavid.dev)
+[Adam David](https://www.adamdavid.dev)
 
 
 ---
